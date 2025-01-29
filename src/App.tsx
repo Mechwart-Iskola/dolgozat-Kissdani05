@@ -1,13 +1,13 @@
-import ProductCard from "./ProductCard";
 import "./App.css";
+import React from "react";
+import ProductSearch from "./ProductSearch";
 
-function App() {
-  return (
-    <div>
-      <h1>Product Information</h1>
-      <ProductCard />
+const App: React.FC = () => {
+  return(
+    <div className="">
+      <ProductSearch />
     </div>
-  );
+  )
 }
 
 export default App; 

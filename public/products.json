@@ -12,7 +12,7 @@
         "name": "Chair",
         "price": 150,
         "category": "Furniture",
-        "image": "/images/chair.png"
+        "image": "/images/chair.jpg"
       },
       {
         "id": 3,
